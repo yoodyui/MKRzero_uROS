@@ -6,3 +6,5 @@ This package contains some sample codes to publish data with various types, incl
 2)	Open a terminal and create your workspace: $ cd microros_ws
 3)	souce using: $ source install/local_setup.bash
 4)	run the node using : $ ros2 run micro_ros_agent micro_ros_agent serial --dev /dev/ttyACM0
+   
+6)	Open another terminal: parallels@ubuntu22-04:~/microros_ws$ ros2 topic list
